@@ -44,5 +44,6 @@ body
 }
 
 #footer{
-    background-color: #333;
+    background-color: rgb(224, 195, 195);
+    text-align: center;
 }
